@@ -24307,7 +24307,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/backgroundpuzzle.png", 535977, 1],
+		["images/backgroundpuzzle.png", 106583, 1],
 		null,
 		[
 		],
@@ -25230,7 +25230,7 @@ cr.getProjectModel = function() { return [
 			0,
 			[
 			[
-				[2, 0, 0, 1920, 1080, 0, 0, 1, 0, 0, 0, 0, []],
+				[0, 0, 0, 1920, 1080, 0, 0, 1, 0, 0, 0, 0, []],
 				57,
 				236,
 				[
